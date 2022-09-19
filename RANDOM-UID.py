@@ -258,9 +258,9 @@ def xyz():
     print('           \x1b[97m[\033[37;41m  M A I N   M E N U   \033[0;m] ')
     print(f"")
     print(f'══════════════════════════════════════════════════════')
-    print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
-    print(f"{BLUE}══════════════════════════════════════════════════════")
-    print(f"{RED}[01] {WHITE}RANDOM CLONE PAK  M1")
+    print(f" {WHITE}TODAY DATE & TIME     
+    print(f"══════════════════════════════════════════════════════")
+    print(f"{}[01] {WHITE}RANDOM CLONE PAK  M1")
     print(f"{RED}[02] {WHITE}RANDOM CLONE BD  M1")
     print(f"{RED}[03] {WHITE}OWNER FB ID")
     print(f"{RED}[04] {WHITE}OWNER WHATSAPP")
