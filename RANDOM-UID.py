@@ -257,7 +257,7 @@ def xyz():
     os.system("clear");print(logo)
     print('           \x1b[97m[\033[37;41m  M A I N   M E N U   \033[0;m] ')
     print(f"")
-    print(f'{BLUE}══════════════════════════════════════════════════════')
+    print(f'══════════════════════════════════════════════════════')
     print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print(f"{BLUE}══════════════════════════════════════════════════════")
     print(f"{RED}[01] {WHITE}RANDOM CLONE PAK  M1")
